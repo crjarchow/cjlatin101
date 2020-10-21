@@ -1,0 +1,25 @@
+Hercules Antaeum occidit. hic cogebat hospites secum luctari
+1a. cogebat
+1b. present active
+1c. imperfect active
+1d. masculine nominative singular
+ars legendī bona est homini.
+2a. genitive
+2b. ars
+2c. dative
+occasio ei regni recuperandi data est
+3a. neuter
+3b. est
+3c. regni
+3d. dative singular
+3e. genitive
+3f. ei
+3g. regni
+sorores eius praeter Gorgen et Deianiram flendo deorum uoluntate in aues sunt factae
+4a. sunt factae
+4b. sorores
+4c. genitive singular
+4d. dative
+4e. ablative
+4f. genitive
+4g. Gorgen et Deianiram
