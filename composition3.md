@@ -1,0 +1,1 @@
+Venus clam concumbere cum Marte. Ei indicandus sunt a Vulcanum. Vulcanus fecit catenam adamantis et posuit circum lectum Veneris et Martis. Venus et Mars non viderunt eam. Ei non potuērunt fugisse catena. Dei vocaverunt ad videndum eos. Mars sensit pudor quod factum. Amare est divinum, sed errare est divinum. 
