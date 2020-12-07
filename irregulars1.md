@@ -1,7 +1,9 @@
+**Needs revisions**
+
 1. third person singular perfect indicative active
 2. present active infinitive
 3. third person present indicative active
-4. third person singular indicative active
+4. third person singular indicative active **What tense is this form?**
 5. third person plural imperfect subjunctive active
 6. third person singular present subjunctive passive
 7. third person singular imperfect subjunctive passive
@@ -13,4 +15,4 @@
 13. third person plural perfect subjunctive active
 14. third person plural plurperfect subjunctive active
 15. third person plural perfect subjunctive passive
-16. third person singular plurperfect subjunctive active
+16. third person singular plurperfect subjunctive active **What principal part is this built from?  What voice do we construct with that part?**
